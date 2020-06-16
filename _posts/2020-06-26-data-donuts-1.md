@@ -3,8 +3,8 @@ layout: post
 
 #event information
 title:  "Data + Donuts Virtual Webinar"
-date:   2020-04-30 08:00+0800
-start_time: "8:30am"
+date:   2020-06-26 08:00+0800
+start_time: "9:00am"
 end_time: "10:00am"
 
 location: VIRTUAL

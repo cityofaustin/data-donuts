@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Data + Donuts LA
+title: Data + Donuts ATX
 description: > # this means to ignore newlines until "baseurl:"
     Changing local government from the ground up.
-email: "data-donuts@compiler.la"
+email: "transportation.data@austintexas.gov"
 address: ""
-twitter: datadonutsla
-github: "compilerla/data-donuts"
+twitter: datadonutsatx
+github: "cityofaustin/data-donuts"
 youtube: "youtube.com/channel/UC_mAa07EdkkGCn48lq0yj3Q"
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
@@ -21,7 +21,7 @@ event_label: Events
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://datadonuts.la" # the base hostname & protocol for your site
+url: "http://datadonuts.austintexas.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
