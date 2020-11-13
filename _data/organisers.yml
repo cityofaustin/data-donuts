@@ -1,7 +1,7 @@
-# Vyki Englert:
-#     name: "Vyki Englert"
-#     photo: "../images/vyki-englert.jpg"
-#     title: "Principal"
-#     org: "Compiler LA"
-#     twitter: "vyki_e"
-#     linkedin: "https://www.linkedin.com/in/vykienglert"
+Mateo Clarke:
+  name: "Mateo Clarke"
+  photo: "../images/mateo-clarke.jpg"
+  title: "Lead Software Developer"
+  org: "Austin Transportation Department"
+  twitter: "mateoclarke"
+  linkedin: "https://www.linkedin.com/in/mateoclarke/"
